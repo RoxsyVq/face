@@ -89,7 +89,7 @@ window.fbAsyncInit	= function() {
 		appId      : 1070001599751830,
 		cookie     : true,
 		xfbml      : true,
-		version    : 'v2.2'
+		version    : 'v2.8'
 	});
 	//	Llamar statusChangeCallback() al iniciar sesión
 	FB.getLoginStatus(function(response) {
