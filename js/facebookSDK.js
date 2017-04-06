@@ -86,7 +86,7 @@ var statusChangeCallback	= function (response) {
 window.fbAsyncInit	= function() {
 	//	Ajuste de opciones
 	FB.init({
-		appId      : 1070001599751830,
+		appId      : 1894931810776025,
 		cookie     : true,
 		xfbml      : true,
 		version    : 'v2.8'
